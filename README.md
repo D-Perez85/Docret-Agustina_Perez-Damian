@@ -1,4 +1,4 @@
-# Docret-Agustina_Perez-Damian (G14)
+# Ducret-Agostina_Perez-Damian (G14)
 Proyecto Final Back End - Clinica Odóntologica 🚀
 ------------------------------------------ 
 
